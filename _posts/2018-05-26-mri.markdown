@@ -1,0 +1,13 @@
+---
+layout: post
+title: "MRI exhibit"
+date: 2018-05-26 15:30:00
+categories: vrview
+image_url: mri.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: mri_th.jpg
+youtube_id: OPUas98chkM
+description: MRI exhibit of the Computer History Museum
+---
+The software part of the Computer History Museum has many sub-exhibits, the MRI was just one of them. It had several fun interactive parts, like most of the exhibits.

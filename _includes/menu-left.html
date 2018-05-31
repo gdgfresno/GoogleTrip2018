@@ -1,0 +1,23 @@
+<div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">360 Tour</span>
+    <nav class="mdl-navigation">
+        <a class="mdl-navigation__link" href="{{ site.baseurl }}/">Home</a>
+        <a class="mdl-navigation__link" href="{{ site.gdgfresno }}">GDG Fresno</a>
+        {% for post in site.posts %}
+        {% if post.title %}
+        <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endif %}
+        {% endfor %}
+        <a class="mdl-navigation__link" href="{{ site.eocfresno }}">Fresno Economic Opportunities Commission</a>
+        <a class="mdl-navigation__link" href="{{ site.bitwise }}">Bitwise Industries</a>
+        <a class="mdl-navigation__link" href="{{ site.google }}">Google</a>
+        <a class="mdl-navigation__link" href="{{ site.google }}">Computer History Museum</a>
+        <a class="mdl-navigation__link" href="{{ site.geekwise }}">Geekwise Academy</a>
+        <a class="mdl-navigation__link" href="{{ site.rootaccess }}">Root Access Hackerspace</a>
+
+        <a class="mdl-navigation__link" href="{{ site.blog }}">GDG Fresno blog</a>
+        <a class="mdl-navigation__link" href="{{ site.twitter }}"><i class="fa fa-twitter"></i></a>
+        <a class="mdl-navigation__link" href="{{ site.facebook }}"><i class="fa fa-facebook"></i></a>
+        <!-- <a class="mdl-navigation__link" href="{{ site.instagram }}/"><i class="fa fa-instagram"></i></a> -->
+    </nav>
+</div>

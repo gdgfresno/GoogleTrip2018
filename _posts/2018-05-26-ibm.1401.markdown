@@ -1,0 +1,13 @@
+---
+layout: post
+title: "IBM 1401 exhibit"
+date: 2018-05-26 16:00:00
+categories: vrview
+image_url: ibm1401.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: ibm1401_th.jpg
+youtube_id: z0wLmyPiCaE
+description: IBM 1401 exhibit of the Computer History Museum
+---
+Many volunteers who originally designed or worked on the IBM 1401 helped the Computer History Museum to make this exhibit come true. There was a manual card puuncher device you could punch any message on blank punch cards (the couple on the video tries to figure it out). There are scheduled times when the machine is operated and I found extremely long integers printed out in the trash bin. Very impressive big integer logic from such an old computer!

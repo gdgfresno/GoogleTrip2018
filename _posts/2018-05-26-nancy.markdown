@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Nancy's story and QnA"
+date: 2018-05-26 13:00:00
+categories: vrview
+image_url: nancy.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: nancy_th.jpg
+youtube_id: _hmGWnK8-n4
+description: Nancy Mohamed shares her story and answers all questions
+---
+Nancy Mohamed tells the crowd her story, and answers all question in detail. We are proud of her!

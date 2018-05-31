@@ -1,0 +1,52 @@
+<footer class="mdl-mini-footer">
+    <div class="mdl-mini-footer__left-section">
+        <p>
+            {{ site.description }}
+        </p>
+        <ul class="mdl-mini-footer__link-list">
+            <li>
+                <a href="{{ site.baseurl }}/">Home</a>
+            </li>
+            <li>
+                <a href="{{ site.gdgfresno }}/">GDG Fresno</a>
+            </li>
+            {% for post in site.posts %}
+            {% if post.title %}
+            <li>
+                <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+            <li>
+                <a href="{{ site.eocfresno }}">Fresno Economic Opportunities Commission</a>
+            </li>
+            <li>
+                <a href="{{ site.bitwise }}">Bitwise Industries</a>
+            </li>
+            <li>
+                <a href="{{ site.google }}">Google</a>
+            </li>
+            <li>
+                <a href="{{ site.google }}">Computer History Museum</a>
+            </li>
+            <li>
+                <a href="{{ site.geekwise }}">Geekwise Academy</a>
+            </li>
+            <li>
+                <a href="{{ site.rootaccess }}">Root Access Hackerspace</a>
+            </li>
+            <li>
+                <a href="{{ site.blog }}/">GDG Fresno blog</a>
+            </li>
+            <li>
+                <a href="{{ site.twitter }}/"><i class="fa fa-twitter"></i></a>
+            </li>
+            <li>
+                <a href="{{ site.facebook }}/"><i class="fa fa-facebook"></i></a>
+            </li>
+        </ul>
+        <div class="copyright">
+            {{ site.copyright }} | Design:&nbsp;<a href="https://github.com/ssokurenko/jekyll-smart-material">Jekyll&nbsp;Smart&nbsp;Material</a>
+        </div>
+    </div>
+</footer>

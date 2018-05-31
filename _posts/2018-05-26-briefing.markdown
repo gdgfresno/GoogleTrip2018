@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Briefing, and the Tour begins"
+date: 2018-05-26 11:00:00
+categories: vrview
+image_url: briefing.jpg
+is_image_360: true
+default_yaw: 200
+thumbnail: briefing_th.jpg
+youtube_id: 6tZbhWeGh4k
+description: Briefing by Martin Omander
+---
+After we arrived Martin is giving a de-briefing and starting off the tour officially. The Google Android sculpture Park and the Visitor Center beta is in a close vicinity.

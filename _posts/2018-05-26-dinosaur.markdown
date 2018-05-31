@@ -1,0 +1,13 @@
+---
+layout: post
+title: "GooglePlex Dinosaur"
+date: 2018-05-26 12:00:00
+categories: vrview
+image_url: dinosaur.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: dinosaur_th.jpg
+youtube_id: tg04NISkep0
+description: The famous dinosaur of the Google Plex
+---
+The dinosaur is a funny animal at the Google campus. One of the most complete skeletons of the particular specimen.

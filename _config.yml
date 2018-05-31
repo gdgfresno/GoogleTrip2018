@@ -1,0 +1,29 @@
+# Site settings
+title: GDG Fresno and EOC at Google Plex and Computer History Museum in 360
+email: csaba.toth.us@gmail.com
+description: 360 videos and photos taken at the 2018 Google Plex & Computer History Museum by GDG Fresno + EOC. Shout out to our sponsors - Fresno Economic Opportunities Commission, Google, Bitwise Industries, Geekwise Academy, Root Access Hackerspace
+baseurl: "/GoogleTrip2018" # the subpath of your site, e.g. /blog/
+url: "https://gdgfresno.github.io" # the base hostname & protocol for your site
+copyright: '&copy; 2018 GDG Fresno / Csaba Toth'
+
+# Links
+gdgfresno: "https://gdgfresno.com"
+eocfresno: "http://www.fresnoeoc.org/"
+bitwise: "http://bitwiseindustries.com/"
+geekwise: "https://geekwiseacademy.com/"
+google: "https://www.google.org/"
+chm: "http://www.computerhistory.org/"
+rootaccess: "https://rootaccess.space/"
+blog: "http://www.gdgfresno.com/blog/"
+twitter: "https://twitter.com/gdgfresno"
+facebook: "https://www.facebook.com/gdgfresno/"
+
+# Build settings
+markdown: kramdown
+
+# Custom theme could be generated at: https://getmdl.io/customize/index.html
+material_theme: red-green
+
+# Google Analytics account ID (UA-XXXXXXXX-X)
+
+google-analytics-ua: UA-84006029-6

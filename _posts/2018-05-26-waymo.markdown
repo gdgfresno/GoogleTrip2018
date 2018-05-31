@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Waymo self driving car"
+date: 2018-05-26 15:00:00
+categories: vrview
+image_url: waymo.jpg
+is_image_360: true
+default_yaw: 0
+thumbnail: waymo_th.jpg
+youtube_id: TUaABrfE450
+description: Google's Waymo self driving car
+---
+This car is really cute. Before I sat in a child asked his father while sitting in the car: "But how do I drive this?". Well, we won't need to!
