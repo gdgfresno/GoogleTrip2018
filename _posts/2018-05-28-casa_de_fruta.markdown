@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stop at Casa de Fruta"
-date: 2018-05-28 18:30:00
+date: 2018-05-26 18:30:00
 categories: vrview
 image_url: crowd.jpg
 is_image_360: true

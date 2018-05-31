@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nancy's story and QnA"
-date: 2018-05-24 13:00:00
+date: 2018-05-26 13:00:00
 categories: vrview
 image_url: nancy.jpg
 is_image_360: true

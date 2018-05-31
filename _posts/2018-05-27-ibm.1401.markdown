@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IBM 1401 exhibit"
-date: 2018-05-27 16:00:00
+date: 2018-05-26 16:00:00
 categories: vrview
 image_url: ibm1401.jpg
 is_image_360: true

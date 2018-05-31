@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visitor Center - spot 1"
-date: 2018-05-21 11:30:00
+date: 2018-05-26 11:30:00
 categories: vrview
 image_url: visitor_center.jpg
 is_image_360: true
