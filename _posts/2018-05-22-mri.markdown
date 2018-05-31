@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MRI exhibit"
-date: 2018-05-26 15:30:00
+date: 2018-05-22 15:30:00
 categories: vrview
 image_url: mri.jpg
 is_image_360: true

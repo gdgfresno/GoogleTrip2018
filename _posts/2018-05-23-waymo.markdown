@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Waymo self driving car"
-date: 2018-05-26 15:00:00
+date: 2018-05-23 15:00:00
 categories: vrview
 image_url: waymo.jpg
 is_image_360: true

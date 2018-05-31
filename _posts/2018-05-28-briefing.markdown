@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Briefing, and the Tour begins"
-date: 2018-05-26 11:00:00
+date: 2018-05-28 11:00:00
 categories: vrview
 image_url: briefing.jpg
 is_image_360: true
