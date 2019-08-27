@@ -10,4 +10,4 @@ thumbnail: crowd_th.jpg
 youtube_id: NIISE3VGIDQ
 description: Stopping by Casa de Fruta before the Pacheco pass
 ---
-Stopping by Casa de Fruta before the Pacheco pass. I don't have a 360 still photo of this, so I include another fphoto of the crowd during de-briefing.
+Stopping by Casa de Fruta before the Pacheco pass. I don't have a 360 still photo of this, so I include another photo of the crowd during de-briefing.
