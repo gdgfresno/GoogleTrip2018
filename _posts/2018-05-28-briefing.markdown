@@ -10,4 +10,4 @@ thumbnail: briefing_th.jpg
 youtube_id: 6tZbhWeGh4k
 description: Briefing by Martin Omander
 ---
-After we arrived Martin is giving a de-briefing and starting off the tour officially. The Google Android sculpture Park and the Visitor Center beta is in a close vicinity.
+After we arrived [Martin Omander](https://twitter.com/martinomander) (our Googler host and tour guide) was giving a de-briefing and starting off the tour officially. The Google Android sculpture Park and the Visitor Center beta was in a close vicinity. Bus group captains were [Andrew Runner]() and [Jensen Vang](https://www.linkedin.com/in/jensen-v-8840ba176/) besides me.
