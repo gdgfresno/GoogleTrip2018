@@ -10700,6 +10700,11 @@ IFrameMessageReceiver.prototype.onMessage_ = function(event) {
   }
 
   var message = event.data;
+  // If there's no message type, ignore it.
+  if (!message || !message.type) {
+    return;
+  }
+
   var type = message.type.toLowerCase();
   var data = message.data;
 
