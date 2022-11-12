@@ -5,7 +5,7 @@
         <a class="mdl-navigation__link" href="{{ site.gdgfresno }}">GDG Fresno</a>
         {% for post in site.posts %}
         {% if post.title %}
-        <a class="mdl-navigation__link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a class="mdl-navigation__link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% endif %}
         {% endfor %}
         <a class="mdl-navigation__link" href="{{ site.eocfresno }}">Fresno Economic Opportunities Commission</a>

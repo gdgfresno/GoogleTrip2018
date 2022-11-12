@@ -5,7 +5,7 @@ layout: default
 <div class="mdl-grid">
   {% for post in site.posts %}
     <div class="mdl-cell mdl-cell--4-col mdl-cell--4-col-tablet mdl-cell--12-col-phone post-block">
-      <a href="{{ post.url | prepend: site.baseurl }}">
+      <a href="{{ post.url | relative_url }}">
         <div class="post-card mdl-shadow--2dp">
           <img src="./assets/images/{{ post.thumbnail }}"/>
           <div class="mdl-card__title">
